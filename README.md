@@ -1,4 +1,4 @@
-# NLW Music - Trilha Explorer
+# NLW Music
 
 ![preview](./github/preview.png)
 ![preview](./github/preview-2.png)
